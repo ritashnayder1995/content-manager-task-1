@@ -1,0 +1,36 @@
+body {
+  font-family: PF BeauSans Pro;
+  font-style: normal;
+}
+
+div {
+  display: flex;
+  margin: 40px 40px;
+  justify-content: center;
+  align-items: center;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid grey;
+  width: 100%;
+  justify-content: center;
+  font-size: 14px;
+  text-align: center;
+}
+
+th {
+  border: 1px solid grey;
+}
+
+td {
+  border: 1px solid grey;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
